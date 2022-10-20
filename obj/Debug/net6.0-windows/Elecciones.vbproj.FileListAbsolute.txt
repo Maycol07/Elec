@@ -1,0 +1,17 @@
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.vbproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.Form1.resources
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.vbproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.AssemblyInfo.vb
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.vbproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\bin\Debug\net6.0-windows\Elecciones.exe
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\bin\Debug\net6.0-windows\Elecciones.deps.json
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\bin\Debug\net6.0-windows\Elecciones.runtimeconfig.json
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\bin\Debug\net6.0-windows\Elecciones.dll
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\bin\Debug\net6.0-windows\Elecciones.pdb
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.dll
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\refint\Elecciones.dll
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.pdb
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\Elecciones.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\VisualBasic\Votacion\Elecciones\Elecciones\obj\Debug\net6.0-windows\ref\Elecciones.dll
